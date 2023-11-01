@@ -1,4 +1,4 @@
-module split
+module github.com/maksadbek/split
 
 go 1.21.2
 
